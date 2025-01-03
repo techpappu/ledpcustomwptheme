@@ -1,0 +1,9 @@
+.print_all_product_cat {
+    color: #000;
+    font-weight: 500;
+}
+.print_all_product_cat .sinlgle_product_cat {
+    width: auto;
+    float: left;
+    margin-left: 20px;
+}
